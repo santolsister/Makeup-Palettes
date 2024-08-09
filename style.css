@@ -12,17 +12,24 @@ h1 {
     margin: 3em auto 1.5em;
     font-size: 40px;
     text-align: center;
+    font-family: 'DM Sans', Tahoma, sans-serif;
 }
 
 h1 small {
     text-transform: none;
     display: block;
     margin-bottom: 400px;
-    font-family: 'DM Sans', Tahoma, sans-serif;
     font-size: 15px;
     width: 300px;
     color: #474141;
     text-align: center;
+}
+
+h2 {
+    text-align: center;
+    margin-top: 0;
+    font-size: small;
+    font-family: 'DM Sans', Tahoma, sans-serif;
 }
 
 h4 {
@@ -295,4 +302,11 @@ h4 small {
     height: 80%;
     border: 6px solid #000000;
     margin: 10%;
+}
+
+footer {
+    font-size: x-small;
+    margin-top: 20px;
+    font-family: Quesrial, Helvetica, Arial, sans-serif;
+    text-align: center;
 }
